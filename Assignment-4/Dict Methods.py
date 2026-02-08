@@ -1,7 +1,7 @@
 
 # Make Normal Dictionary
 Result = {
-    "Name" : "Mahesh Saste",
+    "Name" : "sumedh wase",
     "Subject Marks" : {
         "Physics" : 84,
         "Chemistry" : 64,
@@ -45,4 +45,5 @@ print(info.get("name2"))
 # .update Method
 # Adds Any Key
 Result.update({"City" : "Pune"})
+
 print(Result)
