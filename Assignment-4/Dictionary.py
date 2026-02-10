@@ -2,7 +2,7 @@
 # Creating A Dictionary
 
 info = {
-    "name": "mahesh",
+    "name": "sumedh",
     "age": 18,
     "is_adult": True,
     "topics": ("dict","set"),
@@ -23,3 +23,4 @@ print(info["marks"])
 # For add more info
 info["result"] = "pass"
 print(info["result"])
+
